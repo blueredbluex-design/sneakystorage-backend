@@ -485,6 +485,22 @@
       "state_data": {
         "created": true
       }
+    },
+    {
+      "session_id": "noah_pot1_1758138195",
+      "state_data": {
+        "embedding_id": 0,
+        "source": "https://www.uniprot.org/uniprotkb/Q9NUX5/entry",
+        "structure": "POT1"
+      }
+    },
+    {
+      "session_id": "noah_pot1_1758138195",
+      "state_data": {
+        "embedding_id": 1,
+        "source": "https://www.rcsb.org/structure/2I47",
+        "structure": "POT1"
+      }
     }
   ],
   "query_filters": []
