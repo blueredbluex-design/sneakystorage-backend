@@ -311,6 +311,12 @@
         "source": "https://www.rcsb.org/structure/7QXA",
         "structure": "TERT"
       }
+    },
+    {
+      "session_id": "auto_pot1_1758147584",
+      "state_data": {
+        "created": true
+      }
     }
   ],
   "query_filters": []
