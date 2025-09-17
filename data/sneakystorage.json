@@ -447,6 +447,22 @@
       "state_data": {
         "created": true
       }
+    },
+    {
+      "session_id": "auto_tpp1_1758147598",
+      "state_data": {
+        "embedding_id": 0,
+        "source": "https://www.uniprot.org/uniprotkb/Q96AP0/entry",
+        "structure": "TPP1"
+      }
+    },
+    {
+      "session_id": "auto_tpp1_1758147598",
+      "state_data": {
+        "embedding_id": 1,
+        "source": "https://www.rcsb.org/structure/2I46",
+        "structure": "TPP1"
+      }
     }
   ],
   "query_filters": []
