@@ -1,7 +1,7 @@
 {
   "search_results": [
     {
-      "session_id": "noah_tert_1758136377",
+      "session_id": "auto_tert_1758146121",
       "result_data": {
         "url": "https://www.uniprot.org/uniprotkb/O14746/entry",
         "snippet": "Telomerase reverse transcriptase",
@@ -9,7 +9,7 @@
       }
     },
     {
-      "session_id": "noah_tert_1758136377",
+      "session_id": "auto_tert_1758146121",
       "result_data": {
         "url": "https://www.rcsb.org/structure/7QXA",
         "snippet": "PDB Structure: 7QXA",
@@ -17,7 +17,23 @@
       }
     },
     {
-      "session_id": "noah_pot1_1758136403",
+      "session_id": "auto_tert_1758146882",
+      "result_data": {
+        "url": "https://www.uniprot.org/uniprotkb/O14746/entry",
+        "snippet": "Telomerase reverse transcriptase",
+        "content": "{\n  \"accession\": \"O14746\",\n  \"name\": \"Telomerase reverse transcriptase\",\n  \"sequence\": \"MPRAPRCRAVRSLLRSHYREVLPLATFVRRLGPQGWRLVQRGDPAAFRALVAQCLVCVPWDARPPPAAPSFRQVSCLKELVARVLQRLCERGAKNVLAFG...\",\n  \"length\": 1132,\n  \"function\": \"Telomerase is a ribonucleoprotein enzyme essential for the replication of chromosome termini in most eukaryotes. Active in progenitor and cancer cells. Inactive, or very low activity, in normal somatic cells. Catalytic component of the teleromerase holoenzyme complex whose main activity is the elongation of telomeres by acting as a reverse transcriptase that adds simple sequence repeats to chromosome ends by copying a template sequence within the RNA component of the enzyme. Catalyzes the RNA-dependent extension of 3'-chromosomal termini with the 6-nucleotide telomeric repeat unit, 5'-TTAGGG-3'. The catalytic cycle involves primer binding, primer extension and release of product once the template boundary has been reached or nascent product translocation followed by further extension. More active on substrates containing 2 or 3 telomeric repeats. Telomerase activity is regulated by a number of factors including telomerase complex-associated proteins, chaperones and polypeptide modifiers. Modulates Wnt signaling. Plays important roles in aging and antiapoptosis\",\n  \"gene\": \"TERT\"\n}"
+      }
+    },
+    {
+      "session_id": "auto_tert_1758146882",
+      "result_data": {
+        "url": "https://www.rcsb.org/structure/7QXA",
+        "snippet": "PDB Structure: 7QXA",
+        "content": "{\n  \"pdb_id\": \"7QXA\",\n  \"title\": \"Cryo-EM map of human telomerase-DNA-TPP1 complex (sharpened)\",\n  \"resolution\": 3.2,\n  \"method\": \"ELECTRON MICROSCOPY\",\n  \"release_date\": \"2022-03-02T00:00:00+0000\"\n}"
+      }
+    },
+    {
+      "session_id": "auto_pot1_1758146928",
       "result_data": {
         "url": "https://www.uniprot.org/uniprotkb/Q9NUX5/entry",
         "snippet": "Protection of telomeres protein 1",
@@ -25,7 +41,7 @@
       }
     },
     {
-      "session_id": "noah_pot1_1758136403",
+      "session_id": "auto_pot1_1758146928",
       "result_data": {
         "url": "https://www.rcsb.org/structure/2I47",
         "snippet": "PDB Structure: 2I47",
@@ -33,7 +49,7 @@
       }
     },
     {
-      "session_id": "noah_trf1_1758136428",
+      "session_id": "auto_trf1_1758146976",
       "result_data": {
         "url": "https://www.uniprot.org/uniprotkb/P54274/entry",
         "snippet": "Telomeric repeat-binding factor 1",
@@ -41,7 +57,7 @@
       }
     },
     {
-      "session_id": "noah_trf1_1758136428",
+      "session_id": "auto_trf1_1758146976",
       "result_data": {
         "url": "https://www.rcsb.org/structure/1W0T",
         "snippet": "PDB Structure: 1W0T",
@@ -49,7 +65,7 @@
       }
     },
     {
-      "session_id": "noah_trf2_1758136454",
+      "session_id": "auto_trf2_1758147022",
       "result_data": {
         "url": "https://www.uniprot.org/uniprotkb/Q15554/entry",
         "snippet": "Telomeric repeat-binding factor 2",
@@ -57,7 +73,7 @@
       }
     },
     {
-      "session_id": "noah_trf2_1758136454",
+      "session_id": "auto_trf2_1758147022",
       "result_data": {
         "url": "https://www.rcsb.org/structure/1H6P",
         "snippet": "PDB Structure: 1H6P",
@@ -65,7 +81,7 @@
       }
     },
     {
-      "session_id": "noah_tpp1_1758136479",
+      "session_id": "auto_tpp1_1758147070",
       "result_data": {
         "url": "https://www.uniprot.org/uniprotkb/Q96AP0/entry",
         "snippet": "Adrenocortical dysplasia protein homolog",
@@ -73,7 +89,7 @@
       }
     },
     {
-      "session_id": "noah_tpp1_1758136479",
+      "session_id": "auto_tpp1_1758147070",
       "result_data": {
         "url": "https://www.rcsb.org/structure/2I46",
         "snippet": "PDB Structure: 2I46",
@@ -81,7 +97,7 @@
       }
     },
     {
-      "session_id": "noah_dyskerin_1758136505",
+      "session_id": "auto_dyskerin_1758147118",
       "result_data": {
         "url": "https://www.uniprot.org/uniprotkb/O60832/entry",
         "snippet": "H/ACA ribonucleoprotein complex subunit DKC1",
@@ -89,183 +105,7 @@
       }
     },
     {
-      "session_id": "noah_dyskerin_1758136505",
-      "result_data": {
-        "url": "https://www.rcsb.org/structure/3UAI",
-        "snippet": "PDB Structure: 3UAI",
-        "content": "{\n  \"pdb_id\": \"3UAI\",\n  \"title\": \"Structure of the Shq1-Cbf5-Nop10-Gar1 complex from Saccharomyces cerevisiae\",\n  \"resolution\": 3.06,\n  \"method\": \"X-RAY DIFFRACTION\",\n  \"release_date\": \"2011-12-14T00:00:00+0000\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_tert_1758137019",
-      "result_data": {
-        "url": "https://www.uniprot.org/uniprotkb/O14746/entry",
-        "snippet": "Telomerase reverse transcriptase",
-        "content": "{\n  \"accession\": \"O14746\",\n  \"name\": \"Telomerase reverse transcriptase\",\n  \"sequence\": \"MPRAPRCRAVRSLLRSHYREVLPLATFVRRLGPQGWRLVQRGDPAAFRALVAQCLVCVPWDARPPPAAPSFRQVSCLKELVARVLQRLCERGAKNVLAFG...\",\n  \"length\": 1132,\n  \"function\": \"Telomerase is a ribonucleoprotein enzyme essential for the replication of chromosome termini in most eukaryotes. Active in progenitor and cancer cells. Inactive, or very low activity, in normal somatic cells. Catalytic component of the teleromerase holoenzyme complex whose main activity is the elongation of telomeres by acting as a reverse transcriptase that adds simple sequence repeats to chromosome ends by copying a template sequence within the RNA component of the enzyme. Catalyzes the RNA-dependent extension of 3'-chromosomal termini with the 6-nucleotide telomeric repeat unit, 5'-TTAGGG-3'. The catalytic cycle involves primer binding, primer extension and release of product once the template boundary has been reached or nascent product translocation followed by further extension. More active on substrates containing 2 or 3 telomeric repeats. Telomerase activity is regulated by a number of factors including telomerase complex-associated proteins, chaperones and polypeptide modifiers. Modulates Wnt signaling. Plays important roles in aging and antiapoptosis\",\n  \"gene\": \"TERT\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_tert_1758137019",
-      "result_data": {
-        "url": "https://www.rcsb.org/structure/7QXA",
-        "snippet": "PDB Structure: 7QXA",
-        "content": "{\n  \"pdb_id\": \"7QXA\",\n  \"title\": \"Cryo-EM map of human telomerase-DNA-TPP1 complex (sharpened)\",\n  \"resolution\": 3.2,\n  \"method\": \"ELECTRON MICROSCOPY\",\n  \"release_date\": \"2022-03-02T00:00:00+0000\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_pot1_1758137044",
-      "result_data": {
-        "url": "https://www.uniprot.org/uniprotkb/Q9NUX5/entry",
-        "snippet": "Protection of telomeres protein 1",
-        "content": "{\n  \"accession\": \"Q9NUX5\",\n  \"name\": \"Protection of telomeres protein 1\",\n  \"sequence\": \"MSLVPATNYIYTPLNQLKGGTIVNVYGVVKFFKPPYLSKGTDYCSVVTIVDQTNVKLTCLLFSGNYEALPIIYKNGDIVRFHRLKIQVYKKETQGITSSG...\",\n  \"length\": 634,\n  \"function\": \"Component of the telomerase ribonucleoprotein (RNP) complex that is essential for the replication of chromosome termini. Is a component of the double-stranded telomeric DNA-binding TRF1 complex which is involved in the regulation of telomere length by cis-inhibition of telomerase. Also acts as a single-stranded telomeric DNA-binding protein and thus may act as a downstream effector of the TRF1 complex and may transduce information about telomere maintenance and/or length to the telomere terminus. Component of the shelterin complex (telosome) that is involved in the regulation of telomere length and protection. Shelterin associates with arrays of double-stranded TTAGGG repeats added by telomerase and protects chromosome ends; without its protective activity, telomeres are no longer hidden from the DNA damage surveillance and chromosome ends are inappropriately processed by DNA repair pathways. Binds to two or more telomeric single-stranded 5'-TTAGGG-3' repeats (G-strand) and with high specificity to a minimal telomeric single-stranded 5'-TAGGGTTAG-3' sequence. Binds telomeric single-stranded sequences internally or at proximity of a 3'-end. Its activity is TERT dependent but it does not increase TERT activity by itself. In contrast, the ACD-POT1 heterodimer enhances telomere elongation by increasing telomerase processivity\",\n  \"gene\": \"POT1\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_pot1_1758137044",
-      "result_data": {
-        "url": "https://www.rcsb.org/structure/2I47",
-        "snippet": "PDB Structure: 2I47",
-        "content": "{\n  \"pdb_id\": \"2I47\",\n  \"title\": \"Crystal structure of catalytic domain of TACE with inhibitor\",\n  \"resolution\": 1.9,\n  \"method\": \"X-RAY DIFFRACTION\",\n  \"release_date\": \"2006-12-05T00:00:00+0000\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_trf1_1758137071",
-      "result_data": {
-        "url": "https://www.uniprot.org/uniprotkb/P54274/entry",
-        "snippet": "Telomeric repeat-binding factor 1",
-        "content": "{\n  \"accession\": \"P54274\",\n  \"name\": \"Telomeric repeat-binding factor 1\",\n  \"sequence\": \"MAEDVSSAAPSPRGCADGRDADPTEEQMAETERNDEEQFECQELLECQVQVGAPEEEEEEEEDAGLVAEAEAVAAGWMLDFLCLSLCRAFRDGRSEDFRR...\",\n  \"length\": 439,\n  \"function\": \"Binds the telomeric double-stranded 5'-TTAGGG-3' repeat and negatively regulates telomere length. Involved in the regulation of the mitotic spindle. Component of the shelterin complex (telosome) that is involved in the regulation of telomere length and protection. Shelterin associates with arrays of double-stranded 5'-TTAGGG-3' repeats added by telomerase and protects chromosome ends; without its protective activity, telomeres are no longer hidden from the DNA damage surveillance and chromosome ends are inappropriately processed by DNA repair pathways\",\n  \"gene\": \"TERF1\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_trf1_1758137071",
-      "result_data": {
-        "url": "https://www.rcsb.org/structure/1W0T",
-        "snippet": "PDB Structure: 1W0T",
-        "content": "{\n  \"pdb_id\": \"1W0T\",\n  \"title\": \"hTRF1 DNA-binding domain in complex with telomeric DNA.\",\n  \"resolution\": 2.0,\n  \"method\": \"X-RAY DIFFRACTION\",\n  \"release_date\": \"2004-12-22T00:00:00+0000\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_trf2_1758137097",
-      "result_data": {
-        "url": "https://www.uniprot.org/uniprotkb/Q15554/entry",
-        "snippet": "Telomeric repeat-binding factor 2",
-        "content": "{\n  \"accession\": \"Q15554\",\n  \"name\": \"Telomeric repeat-binding factor 2\",\n  \"sequence\": \"MAAGAGTAGPASGPGVVRDPAASQPRKRPGREGGEGARRSDTMAGGGGSSDGSGRAAGRRASRSSGRARRGRHEPGLGGPAERGAGEARLEEAVNRWVLK...\",\n  \"length\": 542,\n  \"function\": \"Binds the telomeric double-stranded 5'-TTAGGG-3' repeat and plays a central role in telomere maintenance and protection against end-to-end fusion of chromosomes (PubMed:15608617, PubMed:16166375, PubMed:20655466, PubMed:28216226, PubMed:9326950, PubMed:9326951, PubMed:9476899). In addition to its telomeric DNA-binding role, required to recruit a number of factors and enzymes required for telomere protection, including the shelterin complex, TERF2IP/RAP1 and DCLRE1B/Apollo (PubMed:16166375, PubMed:20655466). Component of the shelterin complex (telosome) that is involved in the regulation of telomere length and protection (PubMed:16166375). Shelterin associates with arrays of double-stranded 5'-TTAGGG-3' repeats added by telomerase and protects chromosome ends; without its protective activity, telomeres are no longer hidden from the DNA damage surveillance and chromosome ends are inappropriately processed by DNA repair pathways (PubMed:16166375). Together with DCLRE1B/Apollo, plays a key role in telomeric loop (T loop) formation by generating 3' single-stranded overhang at the leading end telomeres: T loops have been proposed to protect chromosome ends from degradation and repair (PubMed:20655466). Required both to recruit DCLRE1B/Apollo to telomeres and activate the exonuclease activity of DCLRE1B/Apollo (PubMed:20655466, PubMed:28216226). Preferentially binds to positive supercoiled DNA (PubMed:15608617, PubMed:20655466). Together with DCLRE1B/Apollo, required to control the amount of DNA topoisomerase (TOP1, TOP2A and TOP2B) needed for telomere replication during fork passage and prevent aberrant telomere topology (PubMed:20655466). Recruits TERF2IP/RAP1 to telomeres, thereby participating in to repressing homology-directed repair (HDR), which can affect telomere length (By similarity)\",\n  \"gene\": \"TERF2\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_trf2_1758137097",
-      "result_data": {
-        "url": "https://www.rcsb.org/structure/1H6P",
-        "snippet": "PDB Structure: 1H6P",
-        "content": "{\n  \"pdb_id\": \"1H6P\",\n  \"title\": \"Dimeristion domain from human TRF2\",\n  \"resolution\": 2.2,\n  \"method\": \"X-RAY DIFFRACTION\",\n  \"release_date\": \"2001-09-05T00:00:00+0000\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_tert_1758137785",
-      "result_data": {
-        "url": "https://www.uniprot.org/uniprotkb/O14746/entry",
-        "snippet": "Telomerase reverse transcriptase",
-        "content": "{\n  \"accession\": \"O14746\",\n  \"name\": \"Telomerase reverse transcriptase\",\n  \"sequence\": \"MPRAPRCRAVRSLLRSHYREVLPLATFVRRLGPQGWRLVQRGDPAAFRALVAQCLVCVPWDARPPPAAPSFRQVSCLKELVARVLQRLCERGAKNVLAFG...\",\n  \"length\": 1132,\n  \"function\": \"Telomerase is a ribonucleoprotein enzyme essential for the replication of chromosome termini in most eukaryotes. Active in progenitor and cancer cells. Inactive, or very low activity, in normal somatic cells. Catalytic component of the teleromerase holoenzyme complex whose main activity is the elongation of telomeres by acting as a reverse transcriptase that adds simple sequence repeats to chromosome ends by copying a template sequence within the RNA component of the enzyme. Catalyzes the RNA-dependent extension of 3'-chromosomal termini with the 6-nucleotide telomeric repeat unit, 5'-TTAGGG-3'. The catalytic cycle involves primer binding, primer extension and release of product once the template boundary has been reached or nascent product translocation followed by further extension. More active on substrates containing 2 or 3 telomeric repeats. Telomerase activity is regulated by a number of factors including telomerase complex-associated proteins, chaperones and polypeptide modifiers. Modulates Wnt signaling. Plays important roles in aging and antiapoptosis\",\n  \"gene\": \"TERT\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_tert_1758137785",
-      "result_data": {
-        "url": "https://www.rcsb.org/structure/7QXA",
-        "snippet": "PDB Structure: 7QXA",
-        "content": "{\n  \"pdb_id\": \"7QXA\",\n  \"title\": \"Cryo-EM map of human telomerase-DNA-TPP1 complex (sharpened)\",\n  \"resolution\": 3.2,\n  \"method\": \"ELECTRON MICROSCOPY\",\n  \"release_date\": \"2022-03-02T00:00:00+0000\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_tert_1758138189",
-      "result_data": {
-        "url": "https://www.uniprot.org/uniprotkb/O14746/entry",
-        "snippet": "Telomerase reverse transcriptase",
-        "content": "{\n  \"accession\": \"O14746\",\n  \"name\": \"Telomerase reverse transcriptase\",\n  \"sequence\": \"MPRAPRCRAVRSLLRSHYREVLPLATFVRRLGPQGWRLVQRGDPAAFRALVAQCLVCVPWDARPPPAAPSFRQVSCLKELVARVLQRLCERGAKNVLAFG...\",\n  \"length\": 1132,\n  \"function\": \"Telomerase is a ribonucleoprotein enzyme essential for the replication of chromosome termini in most eukaryotes. Active in progenitor and cancer cells. Inactive, or very low activity, in normal somatic cells. Catalytic component of the teleromerase holoenzyme complex whose main activity is the elongation of telomeres by acting as a reverse transcriptase that adds simple sequence repeats to chromosome ends by copying a template sequence within the RNA component of the enzyme. Catalyzes the RNA-dependent extension of 3'-chromosomal termini with the 6-nucleotide telomeric repeat unit, 5'-TTAGGG-3'. The catalytic cycle involves primer binding, primer extension and release of product once the template boundary has been reached or nascent product translocation followed by further extension. More active on substrates containing 2 or 3 telomeric repeats. Telomerase activity is regulated by a number of factors including telomerase complex-associated proteins, chaperones and polypeptide modifiers. Modulates Wnt signaling. Plays important roles in aging and antiapoptosis\",\n  \"gene\": \"TERT\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_tert_1758138189",
-      "result_data": {
-        "url": "https://www.rcsb.org/structure/7QXA",
-        "snippet": "PDB Structure: 7QXA",
-        "content": "{\n  \"pdb_id\": \"7QXA\",\n  \"title\": \"Cryo-EM map of human telomerase-DNA-TPP1 complex (sharpened)\",\n  \"resolution\": 3.2,\n  \"method\": \"ELECTRON MICROSCOPY\",\n  \"release_date\": \"2022-03-02T00:00:00+0000\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_pot1_1758138195",
-      "result_data": {
-        "url": "https://www.uniprot.org/uniprotkb/Q9NUX5/entry",
-        "snippet": "Protection of telomeres protein 1",
-        "content": "{\n  \"accession\": \"Q9NUX5\",\n  \"name\": \"Protection of telomeres protein 1\",\n  \"sequence\": \"MSLVPATNYIYTPLNQLKGGTIVNVYGVVKFFKPPYLSKGTDYCSVVTIVDQTNVKLTCLLFSGNYEALPIIYKNGDIVRFHRLKIQVYKKETQGITSSG...\",\n  \"length\": 634,\n  \"function\": \"Component of the telomerase ribonucleoprotein (RNP) complex that is essential for the replication of chromosome termini. Is a component of the double-stranded telomeric DNA-binding TRF1 complex which is involved in the regulation of telomere length by cis-inhibition of telomerase. Also acts as a single-stranded telomeric DNA-binding protein and thus may act as a downstream effector of the TRF1 complex and may transduce information about telomere maintenance and/or length to the telomere terminus. Component of the shelterin complex (telosome) that is involved in the regulation of telomere length and protection. Shelterin associates with arrays of double-stranded TTAGGG repeats added by telomerase and protects chromosome ends; without its protective activity, telomeres are no longer hidden from the DNA damage surveillance and chromosome ends are inappropriately processed by DNA repair pathways. Binds to two or more telomeric single-stranded 5'-TTAGGG-3' repeats (G-strand) and with high specificity to a minimal telomeric single-stranded 5'-TAGGGTTAG-3' sequence. Binds telomeric single-stranded sequences internally or at proximity of a 3'-end. Its activity is TERT dependent but it does not increase TERT activity by itself. In contrast, the ACD-POT1 heterodimer enhances telomere elongation by increasing telomerase processivity\",\n  \"gene\": \"POT1\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_pot1_1758138195",
-      "result_data": {
-        "url": "https://www.rcsb.org/structure/2I47",
-        "snippet": "PDB Structure: 2I47",
-        "content": "{\n  \"pdb_id\": \"2I47\",\n  \"title\": \"Crystal structure of catalytic domain of TACE with inhibitor\",\n  \"resolution\": 1.9,\n  \"method\": \"X-RAY DIFFRACTION\",\n  \"release_date\": \"2006-12-05T00:00:00+0000\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_trf1_1758138200",
-      "result_data": {
-        "url": "https://www.uniprot.org/uniprotkb/P54274/entry",
-        "snippet": "Telomeric repeat-binding factor 1",
-        "content": "{\n  \"accession\": \"P54274\",\n  \"name\": \"Telomeric repeat-binding factor 1\",\n  \"sequence\": \"MAEDVSSAAPSPRGCADGRDADPTEEQMAETERNDEEQFECQELLECQVQVGAPEEEEEEEEDAGLVAEAEAVAAGWMLDFLCLSLCRAFRDGRSEDFRR...\",\n  \"length\": 439,\n  \"function\": \"Binds the telomeric double-stranded 5'-TTAGGG-3' repeat and negatively regulates telomere length. Involved in the regulation of the mitotic spindle. Component of the shelterin complex (telosome) that is involved in the regulation of telomere length and protection. Shelterin associates with arrays of double-stranded 5'-TTAGGG-3' repeats added by telomerase and protects chromosome ends; without its protective activity, telomeres are no longer hidden from the DNA damage surveillance and chromosome ends are inappropriately processed by DNA repair pathways\",\n  \"gene\": \"TERF1\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_trf1_1758138200",
-      "result_data": {
-        "url": "https://www.rcsb.org/structure/1W0T",
-        "snippet": "PDB Structure: 1W0T",
-        "content": "{\n  \"pdb_id\": \"1W0T\",\n  \"title\": \"hTRF1 DNA-binding domain in complex with telomeric DNA.\",\n  \"resolution\": 2.0,\n  \"method\": \"X-RAY DIFFRACTION\",\n  \"release_date\": \"2004-12-22T00:00:00+0000\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_trf2_1758138205",
-      "result_data": {
-        "url": "https://www.uniprot.org/uniprotkb/Q15554/entry",
-        "snippet": "Telomeric repeat-binding factor 2",
-        "content": "{\n  \"accession\": \"Q15554\",\n  \"name\": \"Telomeric repeat-binding factor 2\",\n  \"sequence\": \"MAAGAGTAGPASGPGVVRDPAASQPRKRPGREGGEGARRSDTMAGGGGSSDGSGRAAGRRASRSSGRARRGRHEPGLGGPAERGAGEARLEEAVNRWVLK...\",\n  \"length\": 542,\n  \"function\": \"Binds the telomeric double-stranded 5'-TTAGGG-3' repeat and plays a central role in telomere maintenance and protection against end-to-end fusion of chromosomes (PubMed:15608617, PubMed:16166375, PubMed:20655466, PubMed:28216226, PubMed:9326950, PubMed:9326951, PubMed:9476899). In addition to its telomeric DNA-binding role, required to recruit a number of factors and enzymes required for telomere protection, including the shelterin complex, TERF2IP/RAP1 and DCLRE1B/Apollo (PubMed:16166375, PubMed:20655466). Component of the shelterin complex (telosome) that is involved in the regulation of telomere length and protection (PubMed:16166375). Shelterin associates with arrays of double-stranded 5'-TTAGGG-3' repeats added by telomerase and protects chromosome ends; without its protective activity, telomeres are no longer hidden from the DNA damage surveillance and chromosome ends are inappropriately processed by DNA repair pathways (PubMed:16166375). Together with DCLRE1B/Apollo, plays a key role in telomeric loop (T loop) formation by generating 3' single-stranded overhang at the leading end telomeres: T loops have been proposed to protect chromosome ends from degradation and repair (PubMed:20655466). Required both to recruit DCLRE1B/Apollo to telomeres and activate the exonuclease activity of DCLRE1B/Apollo (PubMed:20655466, PubMed:28216226). Preferentially binds to positive supercoiled DNA (PubMed:15608617, PubMed:20655466). Together with DCLRE1B/Apollo, required to control the amount of DNA topoisomerase (TOP1, TOP2A and TOP2B) needed for telomere replication during fork passage and prevent aberrant telomere topology (PubMed:20655466). Recruits TERF2IP/RAP1 to telomeres, thereby participating in to repressing homology-directed repair (HDR), which can affect telomere length (By similarity)\",\n  \"gene\": \"TERF2\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_trf2_1758138205",
-      "result_data": {
-        "url": "https://www.rcsb.org/structure/1H6P",
-        "snippet": "PDB Structure: 1H6P",
-        "content": "{\n  \"pdb_id\": \"1H6P\",\n  \"title\": \"Dimeristion domain from human TRF2\",\n  \"resolution\": 2.2,\n  \"method\": \"X-RAY DIFFRACTION\",\n  \"release_date\": \"2001-09-05T00:00:00+0000\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_tpp1_1758138209",
-      "result_data": {
-        "url": "https://www.uniprot.org/uniprotkb/Q96AP0/entry",
-        "snippet": "Adrenocortical dysplasia protein homolog",
-        "content": "{\n  \"accession\": \"Q96AP0\",\n  \"name\": \"Adrenocortical dysplasia protein homolog\",\n  \"sequence\": \"MAGSGRLVLRPWIRELILGSETPSSPRAGQLLEVLQDAEAAVAGPSHAPDTSDVGATLLVSDGTHSVRCLVTREALDTSDWEEKEFGFRGTEGRLLLLQD...\",\n  \"length\": 458,\n  \"function\": \"Component of the shelterin complex (telosome) that is involved in the regulation of telomere length and protection. Shelterin associates with arrays of double-stranded TTAGGG repeats added by telomerase and protects chromosome ends. Without its protective activity, telomeres are no longer hidden from the DNA damage surveillance and chromosome ends are inappropriately processed by DNA repair pathways. Promotes binding of POT1 to single-stranded telomeric DNA. Modulates the inhibitory effects of POT1 on telomere elongation. The ACD-POT1 heterodimer enhances telomere elongation by recruiting telomerase to telomeres and increasing its processivity. May play a role in organogenesis\",\n  \"gene\": \"ACD\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_tpp1_1758138209",
-      "result_data": {
-        "url": "https://www.rcsb.org/structure/2I46",
-        "snippet": "PDB Structure: 2I46",
-        "content": "{\n  \"pdb_id\": \"2I46\",\n  \"title\": \"Crystal structure of human TPP1\",\n  \"resolution\": 2.7,\n  \"method\": \"X-RAY DIFFRACTION\",\n  \"release_date\": \"2006-11-28T00:00:00+0000\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_dyskerin_1758138214",
-      "result_data": {
-        "url": "https://www.uniprot.org/uniprotkb/O60832/entry",
-        "snippet": "H/ACA ribonucleoprotein complex subunit DKC1",
-        "content": "{\n  \"accession\": \"O60832\",\n  \"name\": \"H/ACA ribonucleoprotein complex subunit DKC1\",\n  \"sequence\": \"MADAEVIILPKKHKKKKERKSLPEEDVAEIQHAEEFLIKPESKVAKLDTSQWPLLLKNFDKLNVRTTHYTPLACGSNPLKREIGDYIRTGFINLDKPSNP...\",\n  \"length\": 514,\n  \"function\": \"Catalytic subunit of H/ACA small nucleolar ribonucleoprotein (H/ACA snoRNP) complex, which catalyzes pseudouridylation of rRNA (PubMed:25219674, PubMed:32554502). This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1 (PubMed:25219674). Each rRNA can contain up to 100 pseudouridine ('psi') residues, which may serve to stabilize the conformation of rRNAs. Required for ribosome biogenesis and telomere maintenance (PubMed:19179534, PubMed:25219674). Also required for correct processing or intranuclear trafficking of TERC, the RNA component of the telomerase reverse transcriptase (TERT) holoenzyme (PubMed:19179534)\",\n  \"gene\": \"DKC1\"\n}"
-      }
-    },
-    {
-      "session_id": "noah_dyskerin_1758138214",
+      "session_id": "auto_dyskerin_1758147118",
       "result_data": {
         "url": "https://www.rcsb.org/structure/3UAI",
         "snippet": "PDB Structure: 3UAI",
@@ -275,13 +115,13 @@
   ],
   "pipeline_states": [
     {
-      "session_id": "noah_tert_1758136377",
+      "session_id": "auto_tert_1758146121",
       "state_data": {
         "created": true
       }
     },
     {
-      "session_id": "noah_tert_1758136377",
+      "session_id": "auto_tert_1758146121",
       "state_data": {
         "embedding_id": 0,
         "source": "https://www.uniprot.org/uniprotkb/O14746/entry",
@@ -289,7 +129,7 @@
       }
     },
     {
-      "session_id": "noah_tert_1758136377",
+      "session_id": "auto_tert_1758146121",
       "state_data": {
         "embedding_id": 1,
         "source": "https://www.rcsb.org/structure/7QXA",
@@ -297,13 +137,35 @@
       }
     },
     {
-      "session_id": "noah_pot1_1758136403",
+      "session_id": "auto_tert_1758146882",
       "state_data": {
         "created": true
       }
     },
     {
-      "session_id": "noah_pot1_1758136403",
+      "session_id": "auto_tert_1758146882",
+      "state_data": {
+        "embedding_id": 0,
+        "source": "https://www.uniprot.org/uniprotkb/O14746/entry",
+        "structure": "TERT"
+      }
+    },
+    {
+      "session_id": "auto_tert_1758146882",
+      "state_data": {
+        "embedding_id": 1,
+        "source": "https://www.rcsb.org/structure/7QXA",
+        "structure": "TERT"
+      }
+    },
+    {
+      "session_id": "auto_pot1_1758146928",
+      "state_data": {
+        "created": true
+      }
+    },
+    {
+      "session_id": "auto_pot1_1758146928",
       "state_data": {
         "embedding_id": 0,
         "source": "https://www.uniprot.org/uniprotkb/Q9NUX5/entry",
@@ -311,7 +173,7 @@
       }
     },
     {
-      "session_id": "noah_pot1_1758136403",
+      "session_id": "auto_pot1_1758146928",
       "state_data": {
         "embedding_id": 1,
         "source": "https://www.rcsb.org/structure/2I47",
@@ -319,13 +181,13 @@
       }
     },
     {
-      "session_id": "noah_trf1_1758136428",
+      "session_id": "auto_trf1_1758146976",
       "state_data": {
         "created": true
       }
     },
     {
-      "session_id": "noah_trf1_1758136428",
+      "session_id": "auto_trf1_1758146976",
       "state_data": {
         "embedding_id": 0,
         "source": "https://www.uniprot.org/uniprotkb/P54274/entry",
@@ -333,7 +195,7 @@
       }
     },
     {
-      "session_id": "noah_trf1_1758136428",
+      "session_id": "auto_trf1_1758146976",
       "state_data": {
         "embedding_id": 1,
         "source": "https://www.rcsb.org/structure/1W0T",
@@ -341,13 +203,13 @@
       }
     },
     {
-      "session_id": "noah_trf2_1758136454",
+      "session_id": "auto_trf2_1758147022",
       "state_data": {
         "created": true
       }
     },
     {
-      "session_id": "noah_trf2_1758136454",
+      "session_id": "auto_trf2_1758147022",
       "state_data": {
         "embedding_id": 0,
         "source": "https://www.uniprot.org/uniprotkb/Q15554/entry",
@@ -355,7 +217,7 @@
       }
     },
     {
-      "session_id": "noah_trf2_1758136454",
+      "session_id": "auto_trf2_1758147022",
       "state_data": {
         "embedding_id": 1,
         "source": "https://www.rcsb.org/structure/1H6P",
@@ -363,13 +225,13 @@
       }
     },
     {
-      "session_id": "noah_tpp1_1758136479",
+      "session_id": "auto_tpp1_1758147070",
       "state_data": {
         "created": true
       }
     },
     {
-      "session_id": "noah_tpp1_1758136479",
+      "session_id": "auto_tpp1_1758147070",
       "state_data": {
         "embedding_id": 0,
         "source": "https://www.uniprot.org/uniprotkb/Q96AP0/entry",
@@ -377,7 +239,7 @@
       }
     },
     {
-      "session_id": "noah_tpp1_1758136479",
+      "session_id": "auto_tpp1_1758147070",
       "state_data": {
         "embedding_id": 1,
         "source": "https://www.rcsb.org/structure/2I46",
@@ -385,13 +247,13 @@
       }
     },
     {
-      "session_id": "noah_dyskerin_1758136505",
+      "session_id": "auto_dyskerin_1758147118",
       "state_data": {
         "created": true
       }
     },
     {
-      "session_id": "noah_dyskerin_1758136505",
+      "session_id": "auto_dyskerin_1758147118",
       "state_data": {
         "embedding_id": 0,
         "source": "https://www.uniprot.org/uniprotkb/O60832/entry",
@@ -399,7 +261,7 @@
       }
     },
     {
-      "session_id": "noah_dyskerin_1758136505",
+      "session_id": "auto_dyskerin_1758147118",
       "state_data": {
         "embedding_id": 1,
         "source": "https://www.rcsb.org/structure/3UAI",
@@ -407,261 +269,13 @@
       }
     },
     {
-      "session_id": "noah_terc_1758136531",
+      "session_id": "auto_terc_1758147166",
       "state_data": {
         "created": true
       }
     },
     {
-      "session_id": "noah_tert_1758137019",
-      "state_data": {
-        "created": true
-      }
-    },
-    {
-      "session_id": "noah_tert_1758137019",
-      "state_data": {
-        "embedding_id": 0,
-        "source": "https://www.uniprot.org/uniprotkb/O14746/entry",
-        "structure": "TERT"
-      }
-    },
-    {
-      "session_id": "noah_tert_1758137019",
-      "state_data": {
-        "embedding_id": 1,
-        "source": "https://www.rcsb.org/structure/7QXA",
-        "structure": "TERT"
-      }
-    },
-    {
-      "session_id": "noah_pot1_1758137044",
-      "state_data": {
-        "created": true
-      }
-    },
-    {
-      "session_id": "noah_pot1_1758137044",
-      "state_data": {
-        "embedding_id": 0,
-        "source": "https://www.uniprot.org/uniprotkb/Q9NUX5/entry",
-        "structure": "POT1"
-      }
-    },
-    {
-      "session_id": "noah_pot1_1758137044",
-      "state_data": {
-        "embedding_id": 1,
-        "source": "https://www.rcsb.org/structure/2I47",
-        "structure": "POT1"
-      }
-    },
-    {
-      "session_id": "noah_trf1_1758137071",
-      "state_data": {
-        "created": true
-      }
-    },
-    {
-      "session_id": "noah_trf1_1758137071",
-      "state_data": {
-        "embedding_id": 0,
-        "source": "https://www.uniprot.org/uniprotkb/P54274/entry",
-        "structure": "TRF1"
-      }
-    },
-    {
-      "session_id": "noah_trf1_1758137071",
-      "state_data": {
-        "embedding_id": 1,
-        "source": "https://www.rcsb.org/structure/1W0T",
-        "structure": "TRF1"
-      }
-    },
-    {
-      "session_id": "noah_trf2_1758137097",
-      "state_data": {
-        "created": true
-      }
-    },
-    {
-      "session_id": "noah_trf2_1758137097",
-      "state_data": {
-        "embedding_id": 0,
-        "source": "https://www.uniprot.org/uniprotkb/Q15554/entry",
-        "structure": "TRF2"
-      }
-    },
-    {
-      "session_id": "noah_trf2_1758137097",
-      "state_data": {
-        "embedding_id": 1,
-        "source": "https://www.rcsb.org/structure/1H6P",
-        "structure": "TRF2"
-      }
-    },
-    {
-      "session_id": "noah_tert_1758137785",
-      "state_data": {
-        "created": true
-      }
-    },
-    {
-      "session_id": "noah_tert_1758137785",
-      "state_data": {
-        "embedding_id": 0,
-        "source": "https://www.uniprot.org/uniprotkb/O14746/entry",
-        "structure": "TERT"
-      }
-    },
-    {
-      "session_id": "noah_tert_1758137785",
-      "state_data": {
-        "embedding_id": 1,
-        "source": "https://www.rcsb.org/structure/7QXA",
-        "structure": "TERT"
-      }
-    },
-    {
-      "session_id": "noah_tert_1758138189",
-      "state_data": {
-        "created": true
-      }
-    },
-    {
-      "session_id": "noah_tert_1758138189",
-      "state_data": {
-        "embedding_id": 0,
-        "source": "https://www.uniprot.org/uniprotkb/O14746/entry",
-        "structure": "TERT"
-      }
-    },
-    {
-      "session_id": "noah_tert_1758138189",
-      "state_data": {
-        "embedding_id": 1,
-        "source": "https://www.rcsb.org/structure/7QXA",
-        "structure": "TERT"
-      }
-    },
-    {
-      "session_id": "noah_pot1_1758138195",
-      "state_data": {
-        "created": true
-      }
-    },
-    {
-      "session_id": "noah_pot1_1758138195",
-      "state_data": {
-        "embedding_id": 0,
-        "source": "https://www.uniprot.org/uniprotkb/Q9NUX5/entry",
-        "structure": "POT1"
-      }
-    },
-    {
-      "session_id": "noah_pot1_1758138195",
-      "state_data": {
-        "embedding_id": 1,
-        "source": "https://www.rcsb.org/structure/2I47",
-        "structure": "POT1"
-      }
-    },
-    {
-      "session_id": "noah_trf1_1758138200",
-      "state_data": {
-        "created": true
-      }
-    },
-    {
-      "session_id": "noah_trf1_1758138200",
-      "state_data": {
-        "embedding_id": 0,
-        "source": "https://www.uniprot.org/uniprotkb/P54274/entry",
-        "structure": "TRF1"
-      }
-    },
-    {
-      "session_id": "noah_trf1_1758138200",
-      "state_data": {
-        "embedding_id": 1,
-        "source": "https://www.rcsb.org/structure/1W0T",
-        "structure": "TRF1"
-      }
-    },
-    {
-      "session_id": "noah_trf2_1758138205",
-      "state_data": {
-        "created": true
-      }
-    },
-    {
-      "session_id": "noah_trf2_1758138205",
-      "state_data": {
-        "embedding_id": 0,
-        "source": "https://www.uniprot.org/uniprotkb/Q15554/entry",
-        "structure": "TRF2"
-      }
-    },
-    {
-      "session_id": "noah_trf2_1758138205",
-      "state_data": {
-        "embedding_id": 1,
-        "source": "https://www.rcsb.org/structure/1H6P",
-        "structure": "TRF2"
-      }
-    },
-    {
-      "session_id": "noah_tpp1_1758138209",
-      "state_data": {
-        "created": true
-      }
-    },
-    {
-      "session_id": "noah_tpp1_1758138209",
-      "state_data": {
-        "embedding_id": 0,
-        "source": "https://www.uniprot.org/uniprotkb/Q96AP0/entry",
-        "structure": "TPP1"
-      }
-    },
-    {
-      "session_id": "noah_tpp1_1758138209",
-      "state_data": {
-        "embedding_id": 1,
-        "source": "https://www.rcsb.org/structure/2I46",
-        "structure": "TPP1"
-      }
-    },
-    {
-      "session_id": "noah_dyskerin_1758138214",
-      "state_data": {
-        "created": true
-      }
-    },
-    {
-      "session_id": "noah_dyskerin_1758138214",
-      "state_data": {
-        "embedding_id": 0,
-        "source": "https://www.uniprot.org/uniprotkb/O60832/entry",
-        "structure": "Dyskerin"
-      }
-    },
-    {
-      "session_id": "noah_dyskerin_1758138214",
-      "state_data": {
-        "embedding_id": 1,
-        "source": "https://www.rcsb.org/structure/3UAI",
-        "structure": "Dyskerin"
-      }
-    },
-    {
-      "session_id": "noah_terc_1758138219",
-      "state_data": {
-        "created": true
-      }
-    },
-    {
-      "session_id": "noah_terc_1758138550",
+      "session_id": "auto_tert_1758147579",
       "state_data": {
         "created": true
       }
