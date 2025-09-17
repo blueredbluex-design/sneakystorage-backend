@@ -507,6 +507,12 @@
       "state_data": {
         "created": true
       }
+    },
+    {
+      "session_id": "auto_tert_1758151272",
+      "state_data": {
+        "created": true
+      }
     }
   ],
   "query_filters": []
