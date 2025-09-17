@@ -1,2 +1,3 @@
-# sneakystorage-backend
-Human shop manual
+# Sneaky Storage Backend
+
+This is the backend for the Sneaky Storage project.
