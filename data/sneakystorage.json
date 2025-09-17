@@ -349,6 +349,12 @@
         "source": "https://www.rcsb.org/structure/2I47",
         "structure": "POT1"
       }
+    },
+    {
+      "session_id": "auto_trf1_1758147589",
+      "state_data": {
+        "created": true
+      }
     }
   ],
   "query_filters": []
