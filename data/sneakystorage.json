@@ -239,6 +239,22 @@
         "snippet": "PDB Structure: 1H6P",
         "content": "{\n  \"pdb_id\": \"1H6P\",\n  \"title\": \"Dimeristion domain from human TRF2\",\n  \"resolution\": 2.2,\n  \"method\": \"X-RAY DIFFRACTION\",\n  \"release_date\": \"2001-09-05T00:00:00+0000\"\n}"
       }
+    },
+    {
+      "session_id": "noah_tpp1_1758138209",
+      "result_data": {
+        "url": "https://www.uniprot.org/uniprotkb/Q96AP0/entry",
+        "snippet": "Adrenocortical dysplasia protein homolog",
+        "content": "{\n  \"accession\": \"Q96AP0\",\n  \"name\": \"Adrenocortical dysplasia protein homolog\",\n  \"sequence\": \"MAGSGRLVLRPWIRELILGSETPSSPRAGQLLEVLQDAEAAVAGPSHAPDTSDVGATLLVSDGTHSVRCLVTREALDTSDWEEKEFGFRGTEGRLLLLQD...\",\n  \"length\": 458,\n  \"function\": \"Component of the shelterin complex (telosome) that is involved in the regulation of telomere length and protection. Shelterin associates with arrays of double-stranded TTAGGG repeats added by telomerase and protects chromosome ends. Without its protective activity, telomeres are no longer hidden from the DNA damage surveillance and chromosome ends are inappropriately processed by DNA repair pathways. Promotes binding of POT1 to single-stranded telomeric DNA. Modulates the inhibitory effects of POT1 on telomere elongation. The ACD-POT1 heterodimer enhances telomere elongation by recruiting telomerase to telomeres and increasing its processivity. May play a role in organogenesis\",\n  \"gene\": \"ACD\"\n}"
+      }
+    },
+    {
+      "session_id": "noah_tpp1_1758138209",
+      "result_data": {
+        "url": "https://www.rcsb.org/structure/2I46",
+        "snippet": "PDB Structure: 2I46",
+        "content": "{\n  \"pdb_id\": \"2I46\",\n  \"title\": \"Crystal structure of human TPP1\",\n  \"resolution\": 2.7,\n  \"method\": \"X-RAY DIFFRACTION\",\n  \"release_date\": \"2006-11-28T00:00:00+0000\"\n}"
+      }
     }
   ],
   "pipeline_states": [
