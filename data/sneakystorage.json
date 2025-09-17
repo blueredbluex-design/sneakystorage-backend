@@ -371,6 +371,22 @@
       "state_data": {
         "created": true
       }
+    },
+    {
+      "session_id": "auto_trf1_1758147589",
+      "state_data": {
+        "embedding_id": 0,
+        "source": "https://www.uniprot.org/uniprotkb/P54274/entry",
+        "structure": "TRF1"
+      }
+    },
+    {
+      "session_id": "auto_trf1_1758147589",
+      "state_data": {
+        "embedding_id": 1,
+        "source": "https://www.rcsb.org/structure/1W0T",
+        "structure": "TRF1"
+      }
     }
   ],
   "query_filters": []
