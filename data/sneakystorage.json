@@ -583,6 +583,12 @@
         "source": "https://www.rcsb.org/structure/2I47",
         "structure": "POT1"
       }
+    },
+    {
+      "session_id": "auto_trf1_1758151283",
+      "state_data": {
+        "created": true
+      }
     }
   ],
   "query_filters": []
