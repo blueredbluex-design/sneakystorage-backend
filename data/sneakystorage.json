@@ -255,6 +255,22 @@
         "snippet": "PDB Structure: 1H6P",
         "content": "{\n  \"pdb_id\": \"1H6P\",\n  \"title\": \"Dimeristion domain from human TRF2\",\n  \"resolution\": 2.2,\n  \"method\": \"X-RAY DIFFRACTION\",\n  \"release_date\": \"2001-09-05T00:00:00+0000\"\n}"
       }
+    },
+    {
+      "session_id": "noah_tert_1758182164",
+      "result_data": {
+        "url": "https://www.uniprot.org/uniprotkb/O14746/entry",
+        "snippet": "Telomerase reverse transcriptase",
+        "content": "{\n  \"accession\": \"O14746\",\n  \"name\": \"Telomerase reverse transcriptase\",\n  \"sequence\": \"MPRAPRCRAVRSLLRSHYREVLPLATFVRRLGPQGWRLVQRGDPAAFRALVAQCLVCVPWDARPPPAAPSFRQVSCLKELVARVLQRLCERGAKNVLAFG...\",\n  \"length\": 1132,\n  \"function\": \"Telomerase is a ribonucleoprotein enzyme essential for the replication of chromosome termini in most eukaryotes. Active in progenitor and cancer cells. Inactive, or very low activity, in normal somatic cells. Catalytic component of the teleromerase holoenzyme complex whose main activity is the elongation of telomeres by acting as a reverse transcriptase that adds simple sequence repeats to chromosome ends by copying a template sequence within the RNA component of the enzyme. Catalyzes the RNA-dependent extension of 3'-chromosomal termini with the 6-nucleotide telomeric repeat unit, 5'-TTAGGG-3'. The catalytic cycle involves primer binding, primer extension and release of product once the template boundary has been reached or nascent product translocation followed by further extension. More active on substrates containing 2 or 3 telomeric repeats. Telomerase activity is regulated by a number of factors including telomerase complex-associated proteins, chaperones and polypeptide modifiers. Modulates Wnt signaling. Plays important roles in aging and antiapoptosis\",\n  \"gene\": \"TERT\"\n}"
+      }
+    },
+    {
+      "session_id": "noah_tert_1758182164",
+      "result_data": {
+        "url": "https://www.rcsb.org/structure/7QXA",
+        "snippet": "PDB Structure: 7QXA",
+        "content": "{\n  \"pdb_id\": \"7QXA\",\n  \"title\": \"Cryo-EM map of human telomerase-DNA-TPP1 complex (sharpened)\",\n  \"resolution\": 3.2,\n  \"method\": \"ELECTRON MICROSCOPY\",\n  \"release_date\": \"2022-03-02T00:00:00+0000\"\n}"
+      }
     }
   ],
   "pipeline_states": [
