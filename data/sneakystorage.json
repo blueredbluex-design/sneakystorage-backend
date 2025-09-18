@@ -485,6 +485,12 @@
         "source": "https://www.rcsb.org/structure/2I47",
         "structure": "POT1"
       }
+    },
+    {
+      "session_id": "noah_trf1_1758181458",
+      "state_data": {
+        "created": true
+      }
     }
   ],
   "query_filters": []
