@@ -583,6 +583,12 @@
         "source": "https://www.rcsb.org/structure/7QXA",
         "structure": "TERT"
       }
+    },
+    {
+      "session_id": "noah_pot1_1758182171",
+      "state_data": {
+        "created": true
+      }
     }
   ],
   "query_filters": []
