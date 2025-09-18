@@ -431,6 +431,22 @@
         "snippet": "PDB Structure: 2I46",
         "content": "{\n  \"pdb_id\": \"2I46\",\n  \"title\": \"Crystal structure of human TPP1\",\n  \"resolution\": 2.7,\n  \"method\": \"X-RAY DIFFRACTION\",\n  \"release_date\": \"2006-11-28T00:00:00+0000\"\n}"
       }
+    },
+    {
+      "session_id": "noah_dyskerin_1758182245",
+      "result_data": {
+        "url": "https://www.uniprot.org/uniprotkb/O60832/entry",
+        "snippet": "H/ACA ribonucleoprotein complex subunit DKC1",
+        "content": "{\n  \"accession\": \"O60832\",\n  \"name\": \"H/ACA ribonucleoprotein complex subunit DKC1\",\n  \"sequence\": \"MADAEVIILPKKHKKKKERKSLPEEDVAEIQHAEEFLIKPESKVAKLDTSQWPLLLKNFDKLNVRTTHYTPLACGSNPLKREIGDYIRTGFINLDKPSNP...\",\n  \"length\": 514,\n  \"function\": \"Catalytic subunit of H/ACA small nucleolar ribonucleoprotein (H/ACA snoRNP) complex, which catalyzes pseudouridylation of rRNA (PubMed:25219674, PubMed:32554502). This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1 (PubMed:25219674). Each rRNA can contain up to 100 pseudouridine ('psi') residues, which may serve to stabilize the conformation of rRNAs. Required for ribosome biogenesis and telomere maintenance (PubMed:19179534, PubMed:25219674). Also required for correct processing or intranuclear trafficking of TERC, the RNA component of the telomerase reverse transcriptase (TERT) holoenzyme (PubMed:19179534)\",\n  \"gene\": \"DKC1\"\n}"
+      }
+    },
+    {
+      "session_id": "noah_dyskerin_1758182245",
+      "result_data": {
+        "url": "https://www.rcsb.org/structure/3UAI",
+        "snippet": "PDB Structure: 3UAI",
+        "content": "{\n  \"pdb_id\": \"3UAI\",\n  \"title\": \"Structure of the Shq1-Cbf5-Nop10-Gar1 complex from Saccharomyces cerevisiae\",\n  \"resolution\": 3.06,\n  \"method\": \"X-RAY DIFFRACTION\",\n  \"release_date\": \"2011-12-14T00:00:00+0000\"\n}"
+      }
     }
   ],
   "pipeline_states": [
