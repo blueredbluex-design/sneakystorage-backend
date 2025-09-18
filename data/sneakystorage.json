@@ -1399,6 +1399,12 @@
         "source": "https://www.rcsb.org/structure/1H6P",
         "structure": "TRF2"
       }
+    },
+    {
+      "session_id": "noah_tpp1_1758184033",
+      "state_data": {
+        "created": true
+      }
     }
   ],
   "query_filters": []
