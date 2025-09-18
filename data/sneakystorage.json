@@ -239,6 +239,22 @@
         "snippet": "PDB Structure: 1W0T",
         "content": "{\n  \"pdb_id\": \"1W0T\",\n  \"title\": \"hTRF1 DNA-binding domain in complex with telomeric DNA.\",\n  \"resolution\": 2.0,\n  \"method\": \"X-RAY DIFFRACTION\",\n  \"release_date\": \"2004-12-22T00:00:00+0000\"\n}"
       }
+    },
+    {
+      "session_id": "noah_trf2_1758181464",
+      "result_data": {
+        "url": "https://www.uniprot.org/uniprotkb/Q15554/entry",
+        "snippet": "Telomeric repeat-binding factor 2",
+        "content": "{\n  \"accession\": \"Q15554\",\n  \"name\": \"Telomeric repeat-binding factor 2\",\n  \"sequence\": \"MAAGAGTAGPASGPGVVRDPAASQPRKRPGREGGEGARRSDTMAGGGGSSDGSGRAAGRRASRSSGRARRGRHEPGLGGPAERGAGEARLEEAVNRWVLK...\",\n  \"length\": 542,\n  \"function\": \"Binds the telomeric double-stranded 5'-TTAGGG-3' repeat and plays a central role in telomere maintenance and protection against end-to-end fusion of chromosomes (PubMed:15608617, PubMed:16166375, PubMed:20655466, PubMed:28216226, PubMed:9326950, PubMed:9326951, PubMed:9476899). In addition to its telomeric DNA-binding role, required to recruit a number of factors and enzymes required for telomere protection, including the shelterin complex, TERF2IP/RAP1 and DCLRE1B/Apollo (PubMed:16166375, PubMed:20655466). Component of the shelterin complex (telosome) that is involved in the regulation of telomere length and protection (PubMed:16166375). Shelterin associates with arrays of double-stranded 5'-TTAGGG-3' repeats added by telomerase and protects chromosome ends; without its protective activity, telomeres are no longer hidden from the DNA damage surveillance and chromosome ends are inappropriately processed by DNA repair pathways (PubMed:16166375). Together with DCLRE1B/Apollo, plays a key role in telomeric loop (T loop) formation by generating 3' single-stranded overhang at the leading end telomeres: T loops have been proposed to protect chromosome ends from degradation and repair (PubMed:20655466). Required both to recruit DCLRE1B/Apollo to telomeres and activate the exonuclease activity of DCLRE1B/Apollo (PubMed:20655466, PubMed:28216226). Preferentially binds to positive supercoiled DNA (PubMed:15608617, PubMed:20655466). Together with DCLRE1B/Apollo, required to control the amount of DNA topoisomerase (TOP1, TOP2A and TOP2B) needed for telomere replication during fork passage and prevent aberrant telomere topology (PubMed:20655466). Recruits TERF2IP/RAP1 to telomeres, thereby participating in to repressing homology-directed repair (HDR), which can affect telomere length (By similarity)\",\n  \"gene\": \"TERF2\"\n}"
+      }
+    },
+    {
+      "session_id": "noah_trf2_1758181464",
+      "result_data": {
+        "url": "https://www.rcsb.org/structure/1H6P",
+        "snippet": "PDB Structure: 1H6P",
+        "content": "{\n  \"pdb_id\": \"1H6P\",\n  \"title\": \"Dimeristion domain from human TRF2\",\n  \"resolution\": 2.2,\n  \"method\": \"X-RAY DIFFRACTION\",\n  \"release_date\": \"2001-09-05T00:00:00+0000\"\n}"
+      }
     }
   ],
   "pipeline_states": [
