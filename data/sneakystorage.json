@@ -143,6 +143,22 @@
         "snippet": "PDB Structure: 7QXA",
         "content": "{\n  \"pdb_id\": \"7QXA\",\n  \"title\": \"Cryo-EM map of human telomerase-DNA-TPP1 complex (sharpened)\",\n  \"resolution\": 3.2,\n  \"method\": \"ELECTRON MICROSCOPY\",\n  \"release_date\": \"2022-03-02T00:00:00+0000\"\n}"
       }
+    },
+    {
+      "session_id": "noah_pot1_1758181414",
+      "result_data": {
+        "url": "https://www.uniprot.org/uniprotkb/Q9NUX5/entry",
+        "snippet": "Protection of telomeres protein 1",
+        "content": "{\n  \"accession\": \"Q9NUX5\",\n  \"name\": \"Protection of telomeres protein 1\",\n  \"sequence\": \"MSLVPATNYIYTPLNQLKGGTIVNVYGVVKFFKPPYLSKGTDYCSVVTIVDQTNVKLTCLLFSGNYEALPIIYKNGDIVRFHRLKIQVYKKETQGITSSG...\",\n  \"length\": 634,\n  \"function\": \"Component of the telomerase ribonucleoprotein (RNP) complex that is essential for the replication of chromosome termini. Is a component of the double-stranded telomeric DNA-binding TRF1 complex which is involved in the regulation of telomere length by cis-inhibition of telomerase. Also acts as a single-stranded telomeric DNA-binding protein and thus may act as a downstream effector of the TRF1 complex and may transduce information about telomere maintenance and/or length to the telomere terminus. Component of the shelterin complex (telosome) that is involved in the regulation of telomere length and protection. Shelterin associates with arrays of double-stranded TTAGGG repeats added by telomerase and protects chromosome ends; without its protective activity, telomeres are no longer hidden from the DNA damage surveillance and chromosome ends are inappropriately processed by DNA repair pathways. Binds to two or more telomeric single-stranded 5'-TTAGGG-3' repeats (G-strand) and with high specificity to a minimal telomeric single-stranded 5'-TAGGGTTAG-3' sequence. Binds telomeric single-stranded sequences internally or at proximity of a 3'-end. Its activity is TERT dependent but it does not increase TERT activity by itself. In contrast, the ACD-POT1 heterodimer enhances telomere elongation by increasing telomerase processivity\",\n  \"gene\": \"POT1\"\n}"
+      }
+    },
+    {
+      "session_id": "noah_pot1_1758181414",
+      "result_data": {
+        "url": "https://www.rcsb.org/structure/2I47",
+        "snippet": "PDB Structure: 2I47",
+        "content": "{\n  \"pdb_id\": \"2I47\",\n  \"title\": \"Crystal structure of catalytic domain of TACE with inhibitor\",\n  \"resolution\": 1.9,\n  \"method\": \"X-RAY DIFFRACTION\",\n  \"release_date\": \"2006-12-05T00:00:00+0000\"\n}"
+      }
     }
   ],
   "pipeline_states": [
