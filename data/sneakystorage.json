@@ -61,6 +61,22 @@
       "state_data": {
         "created": true
       }
+    },
+    {
+      "session_id": "auto_tert_1758201035",
+      "state_data": {
+        "embedding_id": 0,
+        "source": "https://www.uniprot.org/uniprotkb/O14746/entry",
+        "structure": "TERT"
+      }
+    },
+    {
+      "session_id": "auto_tert_1758201035",
+      "state_data": {
+        "embedding_id": 1,
+        "source": "https://www.rcsb.org/structure/7QXA",
+        "structure": "TERT"
+      }
     }
   ],
   "query_filters": []
