@@ -757,6 +757,22 @@
       "state_data": {
         "created": true
       }
+    },
+    {
+      "session_id": "noah_dyskerin_1758182199",
+      "state_data": {
+        "embedding_id": 0,
+        "source": "https://www.uniprot.org/uniprotkb/O60832/entry",
+        "structure": "Dyskerin"
+      }
+    },
+    {
+      "session_id": "noah_dyskerin_1758182199",
+      "state_data": {
+        "embedding_id": 1,
+        "source": "https://www.rcsb.org/structure/3UAI",
+        "structure": "Dyskerin"
+      }
     }
   ],
   "query_filters": []
