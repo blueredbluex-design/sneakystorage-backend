@@ -229,6 +229,12 @@
         "source": "https://www.rcsb.org/structure/2I46",
         "structure": "TPP1"
       }
+    },
+    {
+      "session_id": "auto_dyskerin_1758201058",
+      "state_data": {
+        "created": true
+      }
     }
   ],
   "query_filters": []
