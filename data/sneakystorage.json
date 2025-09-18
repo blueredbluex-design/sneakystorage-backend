@@ -1203,6 +1203,12 @@
         "source": "https://www.rcsb.org/structure/2I46",
         "structure": "TPP1"
       }
+    },
+    {
+      "session_id": "noah_dyskerin_1758183810",
+      "state_data": {
+        "created": true
+      }
     }
   ],
   "query_filters": []
