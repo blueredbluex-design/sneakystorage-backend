@@ -251,6 +251,22 @@
       "state_data": {
         "created": true
       }
+    },
+    {
+      "session_id": "auto_dyskerin_1758201058",
+      "state_data": {
+        "embedding_id": 0,
+        "source": "https://www.uniprot.org/uniprotkb/O60832/entry",
+        "structure": "Dyskerin"
+      }
+    },
+    {
+      "session_id": "auto_dyskerin_1758201058",
+      "state_data": {
+        "embedding_id": 1,
+        "source": "https://www.rcsb.org/structure/3UAI",
+        "structure": "Dyskerin"
+      }
     }
   ],
   "query_filters": []
