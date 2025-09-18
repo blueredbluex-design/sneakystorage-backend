@@ -115,6 +115,12 @@
         "source": "https://www.rcsb.org/structure/1W0T",
         "structure": "TRF1"
       }
+    },
+    {
+      "session_id": "auto_trf2_1758201505",
+      "state_data": {
+        "created": true
+      }
     }
   ],
   "query_filters": []
